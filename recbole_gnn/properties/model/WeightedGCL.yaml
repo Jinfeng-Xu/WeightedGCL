@@ -1,0 +1,16 @@
+embedding_size: 64
+#[2, 3, 4]
+n_layers: 2
+reg_weight: 1e-4
+
+# [0.1, 0.01, 0.001]
+lambda: 0.001
+eps: 0.1
+#[0.2, 0.4, 0.6, 0.8]
+temperature: 0.2
+k: 64
+
+# ['Filter'. 'SENet']
+#method: 'SENet'
+
+warm_up_step: 30
