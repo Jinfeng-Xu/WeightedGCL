@@ -33,11 +33,11 @@ python main.py
 If you find WeightedGCL useful in your research, please consider citing our [paper]().
 
 ```
-@inproceedings{chen2025weighted,
+@inproceedings{chen2025squeeze,
   title={Squeeze and Excitation: A Weighted Graph Contrastive Learning for Collaborative Filtering},
   author={Chen, Zheyu and Xu, Jinfeng and Wei, Yutong and Peng, Ziyue},
-  booktitle={Proceedings of the 47th International ACM SIGIR Conference on Research and Development in Information Retrieval},
-  pages={},
+  booktitle={Proceedings of the 48th International ACM SIGIR Conference on Research and Development in Information Retrieval},
+  pages={2769--2773},
   year={2025}
 }
 ```
