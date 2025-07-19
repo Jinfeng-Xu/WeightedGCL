@@ -30,7 +30,7 @@ python main.py
 
 ## Citing WeightedGCL
 
-If you find WeightedGCL useful in your research, please consider citing our [paper]().
+If you find WeightedGCL useful in your research, please consider citing our [paper](https://arxiv.org/pdf/2504.04443).
 
 ```
 @inproceedings{chen2025squeeze,
